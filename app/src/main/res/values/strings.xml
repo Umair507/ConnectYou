@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ConnectYou</string>
+    <string name="start">Start</string>
+    <string name="instructions">Instructions</string>
+    <string name="about">About</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="exit">Exit</string>
+    <string name="textview1">MAIN MENU</string>
+    <string name="instruction1">INSTRUCTIONS</string>
+    <string name="instruction2">\n 1. Switch on phone\'s bluetooth \n
+	    							2. Select start from the main menu \n
+	    							3. go to options and scan for devices \n
+	    							4. Select a device from the list \n
+	    							5. It will ask you permission on both the devices to pair up \n
+	    							6. Once the "connected" status appears you can start sending text to the other device\n\n\n\n
+                                    Note: This app is to ensure the scurity. Your chat data will never be sync up like other apps and
+                                    we are still working to make it better and more reliable.</string>
+    <string name="instruction3">It is free and always will be!</string>
+    <string name="about1">ABOUT</string>
+    <string name="about2">\n This app helps people to communicate between
+	    android devices like phones, tablets, computers, etc over the bluetooth technology.\n
+	    This is a very useful application which does not require network access.
+	    Simple and faster way of sending messages.\n
+        Build on Android Studio 3.0.1 \n
+        minSdkVersion 14 \n
+        targetSdkVersion 26 \n \n \n </string>
+    <string name="contact1">CONTACT US</string>
+    <string name="contact2">\n Aura Production 1RE07CS056</string>
+    <string name="contact3"> For further details/queries visit:\n
+                            auraProduction.gmail.com\n
+                            Office: Arfa Careem Tower (No. F319B)
+                            \n\n</string>
+    <string name="contact4">Your suggestions will be highly appreciated.</string>
+    <string name="devices">Available Devices.</string>
+    <string name="chatbox">Messeges will show here.</string>
+    <string name="chat">Enter text here.</string>
+    <string name="sendButton">Send</string>
+</resources>

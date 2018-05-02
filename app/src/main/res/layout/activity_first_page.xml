@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#6fff00"
+    android:orientation="vertical"
+    tools:context="com.example.umairmumtaz.connectyou.view.activities.FirstPage">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="65dp"
+        android:paddingTop="60dp"
+        android:text="@string/textview1"
+        android:textSize="21sp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#ffff00"
+        android:onClick="Start"
+        android:padding="20dp"
+        android:text="@string/start" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#ffff00"
+        android:onClick="Instructions"
+        android:padding="20dp"
+        android:text="@string/instructions" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#ffff00"
+        android:onClick="About"
+        android:padding="20dp"
+        android:text="@string/about" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#ffff00"
+        android:onClick="ContactUs"
+        android:padding="20dp"
+        android:text="@string/contactUs" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="#ffff00"
+        android:onClick="Exit"
+        android:padding="20dp"
+        android:text="@string/exit" />
+
+</LinearLayout>
